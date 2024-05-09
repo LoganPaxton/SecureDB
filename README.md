@@ -8,5 +8,5 @@ If you would like to contribute to SecureDB, please, make a PR! If you want to r
 **Work in progress! Comming soon!**
 
 ### Update Logs
-V1.1 ~ Added API keys
-V1.2 ~ Coming Soon!
+V1.1 ~ Added API keys  
+V1.2 ~ Added API key generation, and fixed sign in.  
